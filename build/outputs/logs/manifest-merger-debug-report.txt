@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:3:5-27
+	android:versionName
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:5:5-30
+		INJECTED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml
+		INJECTED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:4:5-28
+		INJECTED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml
+		INJECTED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:7:5-44
+	android:minSdkVersion
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:7:15-41
+application
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:9:5-21:19
+	android:label
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:10:9-45
+activity#tjuci.edu.dl.MatrixActivity
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:13:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\CustomView_work\EightPrject\Matrix\AndroidManifest.xml:18:27-74

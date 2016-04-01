@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\CustomView_work\EightPrject\Matrix\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\CustomView_work\EightPrject\Matrix\build-types\debug\jniLibs"/></dataSet></merger>
